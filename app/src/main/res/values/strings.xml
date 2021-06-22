@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StetiCar</string>
+    <string name="servicos">Serviços</string>
+    <string name="endereco">Endereço</string>
+    <string name="redesocial">Redes Sociais</string>
+    <string name="servico1">Lavação Padrão</string>
+    <string name="servico2">Lavação Com cera</string>
+    <string name="servico3">Higienização padrão</string>
+    <string name="servico4">Higienização estofamento</string>
+    <string name="servico5">Higienização completa</string>
+
+</resources>
